@@ -29,5 +29,12 @@ http://localhost:8000/redoc
 uv run fastapi dev main.py
 ```
 
-Current: 13:12
+## 03 Path Parameters - Validation and Error Handling
+[https://www.youtube.com/watch?v=WRjXIA5pMtk&list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI&index=3]
+[https://github.com/CoreyMSchafer/FastAPI-03-Path-Parameters]
+
+```bash
+# Start webserver
+uv run fastapi dev main.py
+```
 
